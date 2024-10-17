@@ -3,7 +3,7 @@ Version:	64899
 Release:	2
 Summary:	Development pre-release of the LaTeX graphics bundle
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-graphics-dev
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-graphics-dev
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-graphics-dev.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-graphics-dev.doc.r%{version}.tar.xz
